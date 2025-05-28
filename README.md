@@ -6,7 +6,7 @@ This project uses deep learning to classify chest X-ray images as COVID-19 or no
 ## Dataset
 
 We use a publicly available dataset:  
-`covid-chestxray-dataset`  
+`covid-chestxray-dataset`  : https://github.com/ieee8023/covid-chestxray-dataset/archive/master.zip
 Place your images in the following folder:
 
 
